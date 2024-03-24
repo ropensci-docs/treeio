@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f6686330e437867add5dc80ef2e5db85c866c6c3",
+    "author": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "time": "2024-02-23 02:23:59",
+    "files": 1,
+    "merge": false,
+    "message": "update citation\n"
+  },
+  "repo": "https://github.com/YuLab-SMU/treeio",
+  "pkg": "treeio"
+}
