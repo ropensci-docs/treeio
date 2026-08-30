@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e397d39824c40bea83758102f0adb3d5409c07fe",
+    "author": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "time": "2026-04-30T01:28:03Z",
+    "files": 4,
+    "merge": false,
+    "message": "complete the write.beast() named node annotation fix so root annotations are preserved, #130\n"
+  },
+  "repo": "https://github.com/YuLab-SMU/treeio",
+  "pkg": "treeio",
+  "time": "2026-08-30T07:22:36Z"
+}
